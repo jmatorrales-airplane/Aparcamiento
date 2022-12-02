@@ -1,0 +1,15 @@
+C:\Users\jordi\Desktop\.net_projects\Aparcamiento\bin\Debug\net6.0\Aparcamiento.exe
+C:\Users\jordi\Desktop\.net_projects\Aparcamiento\bin\Debug\net6.0\Aparcamiento.deps.json
+C:\Users\jordi\Desktop\.net_projects\Aparcamiento\bin\Debug\net6.0\Aparcamiento.runtimeconfig.json
+C:\Users\jordi\Desktop\.net_projects\Aparcamiento\bin\Debug\net6.0\Aparcamiento.dll
+C:\Users\jordi\Desktop\.net_projects\Aparcamiento\bin\Debug\net6.0\Aparcamiento.pdb
+C:\Users\jordi\Desktop\.net_projects\Aparcamiento\obj\Debug\net6.0\Aparcamiento.csproj.AssemblyReference.cache
+C:\Users\jordi\Desktop\.net_projects\Aparcamiento\obj\Debug\net6.0\Aparcamiento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jordi\Desktop\.net_projects\Aparcamiento\obj\Debug\net6.0\Aparcamiento.AssemblyInfoInputs.cache
+C:\Users\jordi\Desktop\.net_projects\Aparcamiento\obj\Debug\net6.0\Aparcamiento.AssemblyInfo.cs
+C:\Users\jordi\Desktop\.net_projects\Aparcamiento\obj\Debug\net6.0\Aparcamiento.csproj.CoreCompileInputs.cache
+C:\Users\jordi\Desktop\.net_projects\Aparcamiento\obj\Debug\net6.0\Aparcamiento.dll
+C:\Users\jordi\Desktop\.net_projects\Aparcamiento\obj\Debug\net6.0\refint\Aparcamiento.dll
+C:\Users\jordi\Desktop\.net_projects\Aparcamiento\obj\Debug\net6.0\Aparcamiento.pdb
+C:\Users\jordi\Desktop\.net_projects\Aparcamiento\obj\Debug\net6.0\Aparcamiento.genruntimeconfig.cache
+C:\Users\jordi\Desktop\.net_projects\Aparcamiento\obj\Debug\net6.0\ref\Aparcamiento.dll
